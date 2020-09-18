@@ -1,0 +1,23 @@
+html {
+    background-color: floralwhite
+}
+     h1 {
+              font-family: sans-serif;
+              text-emphasis-color: aliceblue;
+              text-transform: uppercase;
+              text-align: center;
+              color: deepskyblue
+          }
+          p {
+              font-family: "Futura";
+              text-align: justify-all; 
+              color: darkblue;
+          }
+          a {
+              text-align: center;
+              font-family: "Helvetica";
+              text-transform: uppercase;
+              text-align-last: center;
+              font-size: 18px;
+              color: deepskyblue
+              }
